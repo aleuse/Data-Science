@@ -1,0 +1,6 @@
+servidor: renzoroca.database.windows.net
+bd: Ciclismo
+usuario: practicas
+contraseña: pr@acticasRR2021.
+
+Owner : https://www.flowcode.com/page/renzoroca
